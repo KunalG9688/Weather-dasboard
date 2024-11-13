@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import RegionComponent from './RegionComponent'
-import TempComponent from './tempComponent'
+import TempComponent from './TempComponent'
 import WindDetails from './WindDetails'
 import BigTemp from './BigTemp'
 import WeatherNav from './WeatherNav'
